@@ -6,3 +6,6 @@ Here's the simulator in action:
 [Simulation with RRT and Lidar](media/simulation_rrt_with_lidar.mp4)
 
 [Simulation with RRT](media/simulator_rrt.mp4)
+
+###TODO###:
+Enable a ros2 interface so the simulation physics and control can run as one node, and path planning can run as a different node
