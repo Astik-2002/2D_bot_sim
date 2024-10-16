@@ -1,9 +1,0 @@
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/uninstall.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/bot_sim_uninstall.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/test.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/edit_cache.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/rebuild_cache.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/list_install_components.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/install.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/install/local.dir
-/home/astik/2D_bot_sim/build/bot_sim/CMakeFiles/install/strip.dir
